@@ -27,7 +27,7 @@ void Rectangle::setWidth(int w)
 
 int main()
 {
-    Rectangle rect2;
+    Rectangle rect2(rect1); //default copy constructor
     rect2.setWidth(2);
     rect2.setHeight(3);
     cout << "rect1 Area: " << rect1.getArea() << "\n";
