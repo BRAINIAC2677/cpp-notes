@@ -1,5 +1,7 @@
 # CPP-Notes
 
+This repository focuses on the OOP concepts with C++.
+
 ## _Topics_
 
 1. [Class](topics/1.cpp)
