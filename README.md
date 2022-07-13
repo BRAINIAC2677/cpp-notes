@@ -1,8 +1,9 @@
-# CPP-Notes
+# cpp_notes
 
 This repository focuses on the OOP concepts with C++.
+<hr>
 
-## _Topics_
+## _Topics:_
 
 1. [Class](topics/1.cpp)
 2. [Function Overloading](topics/2.cpp)
@@ -25,3 +26,7 @@ This repository focuses on the OOP concepts with C++.
 19. [Custom Inserter Extractor](topics/19)
 20. [Static Member](topics/20.cpp)
 21. [Template](topics/21)
+<hr>
+
+## _Resources:_
+  - [Header files](https://data-flair.training/blogs/header-files-in-c-cpp/)
